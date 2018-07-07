@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "109377870021",
+    "firebase_url": "https://need-help-d1afd.firebaseio.com",
+    "project_id": "need-help-d1afd",
+    "storage_bucket": "need-help-d1afd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109377870021:android:53c13b9edaca8411",
+        "android_client_info": {
+          "package_name": "com.papers.needhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109377870021-3b10e2br7i3tmg0repfka0q1lmg2coln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.papers.needhelp",
+            "certificate_hash": "eb68455c69200b440943900f67faae22859f01b3"
+          }
+        },
+        {
+          "client_id": "109377870021-ho4pgvgdvq10sl57imdt3p2u24eufq54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvb4ctX-xr4fDTfCNjQC5-PsrPE2JQxHU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109377870021-ho4pgvgdvq10sl57imdt3p2u24eufq54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

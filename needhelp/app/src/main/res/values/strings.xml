@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bdk Mosa3de?</string>
+
+    <!-- Login -->
+    <string name="has_an_account">I already have an Account</string>
+    <string name="email_edit">Email</string>
+    <string name="password_edit">Password</string>
+    <string name="sign_in_btn">Log In</string>
+    <string name="sign_up_link"><u>Sign up</u></string>
+    <string name="sign_up_text">"Do not have an account, "</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="need_help">Need Help?</string>
+
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بدك مساعدة؟</string>
+
+
+    <string name="has_an_account">قمت بالتسجيل مسبقا</string>
+    <string name="email_edit">البريد الالكتروني</string>
+    <string name="password_edit">كلمة المرور</string>
+    <string name="sign_in_btn">تسجيل الدخول</string>
+    <string name="sign_up_text">ليس لديك حساب, </string>
+    <string name="sign_up_link"><u>قم بالتسجيل</u></string>
+    <string name="sign_up">انشاء حساب</string>
+    <string name="need_help">بدك مساعدة؟</string>
+
+</resources>
